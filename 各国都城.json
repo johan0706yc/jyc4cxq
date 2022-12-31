@@ -1,0 +1,53 @@
+{
+	  "type": "FeatureCollection",
+	  "features": [
+		{
+		  "type": "Feature",
+		  "properties": {
+			"name": "洛阳"
+		  },
+		  "geometry": {
+			"type": "Point",
+			"coordinates": [
+			  112.422103,34.651726
+			]
+		  }
+		},
+		{
+		  "type": "Feature",
+		  "properties": {
+			"name": "成都"
+		  },
+		  "geometry": {
+			"type": "Point",
+			"coordinates": [
+			  104.059749,30.672138
+			]
+		  }
+		},
+		{
+		  "type": "Feature",
+		  "properties": {
+			"name": "建业"
+		  },
+		  "geometry": {
+			"type": "Point",
+			"coordinates": [
+			  118.792415,32.059374
+			]
+		  }
+		},
+		{
+		  "type": "Feature",
+		  "properties": {
+			"name": "襄平"
+		  },
+		  "geometry": {
+			"type": "Point",
+			"coordinates": [
+			  123.187994,41.261219
+			]
+		  }
+		}
+		]
+		}
